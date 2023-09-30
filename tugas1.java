@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Tugas1{
+public class tugas1{
     public static void main(String[] args) {
         final int jumlah_barang = 5;
         String[] nama_barang = {"oppo", "samsung", "vivo", "iphone", "hwaway"};
